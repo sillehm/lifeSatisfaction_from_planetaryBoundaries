@@ -1,0 +1,23 @@
+feature,importance,model
+Healthy Life Expect.,0.5236572143870291,RandomForest
+Access to Energy,0.003422467104166352,RandomForest
+Social Support,0.04879490124140897,RandomForest
+Democratic Quality,0.016305088044566558,RandomForest
+Employment,0.06875836606305633,RandomForest
+CO2 Emissions,0.1339408705568895,RandomForest
+Phosphorus,0.0032868137434647533,RandomForest
+Nitrogen,0.004604197881878475,RandomForest
+eHANPP,0.017120600754800114,RandomForest
+Ecological Footprint,0.12892353894854833,RandomForest
+Material Footprint,0.051185941274191626,RandomForest
+Healthy Life Expect.,0.303966224193573,xgboost
+Access to Energy,0.005579447373747826,xgboost
+Social Support,0.04096915200352669,xgboost
+Democratic Quality,0.021742967888712883,xgboost
+Employment,0.13253264129161835,xgboost
+CO2 Emissions,0.1967383772134781,xgboost
+Phosphorus,0.08272773027420044,xgboost
+Nitrogen,0.02339581400156021,xgboost
+eHANPP,0.013107795268297195,xgboost
+Ecological Footprint,0.1253078728914261,xgboost
+Material Footprint,0.053931981325149536,xgboost

@@ -1,0 +1,34 @@
+feature,coefficient,model
+Healthy Life Expect.,0.6133,LinearRegression
+Access to Energy,0.0036,LinearRegression
+Social Support,0.0304,LinearRegression
+Democratic Quality,0.0611,LinearRegression
+Employment,-0.1401,LinearRegression
+CO2 Emissions,0.1201,LinearRegression
+Phosphorus,0.0691,LinearRegression
+Nitrogen,-0.0484,LinearRegression
+eHANPP,-0.1106,LinearRegression
+Ecological Footprint,0.2724,LinearRegression
+Material Footprint,0.6418,LinearRegression
+Healthy Life Expect.,0.6332,Lasso
+Access to Energy,0.0077,Lasso
+Social Support,0.0616,Lasso
+Democratic Quality,0.0575,Lasso
+Employment,-0.0034,Lasso
+CO2 Emissions,0.1137,Lasso
+Phosphorus,0.036,Lasso
+Nitrogen,-0.0116,Lasso
+eHANPP,-0.0887,Lasso
+Ecological Footprint,0.1703,Lasso
+Material Footprint,0.3659,Lasso
+Healthy Life Expect.,0.6139,Ridge
+Access to Energy,0.0333,Ridge
+Social Support,0.0528,Ridge
+Democratic Quality,0.0734,Ridge
+Employment,-0.0818,Ridge
+CO2 Emissions,0.127,Ridge
+Phosphorus,0.0668,Ridge
+Nitrogen,-0.0371,Ridge
+eHANPP,-0.1029,Ridge
+Ecological Footprint,0.2295,Ridge
+Material Footprint,0.363,Ridge

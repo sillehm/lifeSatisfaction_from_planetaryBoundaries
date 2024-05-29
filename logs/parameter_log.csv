@@ -1,0 +1,5 @@
+model,best_params
+linear-lasso-cv,{'alpha': 0.01104713142179525}
+linear-ridge-cv,{'alpha': 2.848035868435802}
+RandomForest-cv,"{'ccp_alpha': 0.01, 'max_depth': 10, 'max_features': 0.9, 'min_samples_split': 2, 'n_estimators': 20}"
+xgboost-cv,"{'colsample_bytree': 0.6, 'learning_rate': 0.02, 'max_depth': 2, 'n_estimators': 200, 'objective': 'reg:squarederror'}"
